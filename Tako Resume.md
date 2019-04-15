@@ -1,11 +1,8 @@
 # Tako's Resume 
 
  - 姓名：蔡明勳 Tsai, Ming-Shiun
- - 手機：0988-636183
  - E-mail：nfs1atako@gmail.com
- - 通訊地址：新北市土城區溪頭路32號2F-B1房
- <!--- Github：http://github.com/nfs1a
--->
+
 ## 簡介
 我是Tako，目前在圓展科技(AVer Information)擔任IT工程師。主要工作是規劃、建置公司的資訊軟體和硬體的基礎設施。我習慣使用的語言是C, Python, PHP, JAVA，習慣使用Mac和Linux作為開發環境。
 
