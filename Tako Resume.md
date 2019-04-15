@@ -77,7 +77,7 @@
 * **宿舍網管** - 中央⼤學電⼦計算機中⼼, 2015 - 2016
 * **網頁開發⼯讀⽣** - 彰化師範⼤學 學務處, 2013 - 2014
 
-##Education
+## Education
 * 國⽴中央⼤學 資訊⼯程研究所 2014 - 2016
 * 國⽴彰化師範⼤學 資訊⼯程學系 2010 - 2014
 * 國⽴臺南第⼀⾼級中學 普通科 2006 - 2010
@@ -114,7 +114,7 @@
 * **Ruby on Rails 桃園社群** - 邁向鐵道工人之路 Ruby on Rails 30 ⼩時基礎班
 * **桃園前端開發者社群** - CSS3 Workshop of Brown and Chopper
 	
-##開放式課程
+## 開放式課程
 * **Coursera NTU** - “機器學習的基⽯”, 2016, Spring
 * **NTHU MOOCS** - “Introduction to Computer Networks” 2015, Spring
 * **ShareCourse** - “IPv6 新⼀代網際網路通訊協議原理與應⽤” 2015, Spring
